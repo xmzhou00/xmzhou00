@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Xianming Zhou
 
+- 🔭 I’m currently working on streaming computing
 - 🌱 I’m currently learning the streaming computing on big data
 - 📫 How to reach me: xmzhou123@gmail.com
 <!--
